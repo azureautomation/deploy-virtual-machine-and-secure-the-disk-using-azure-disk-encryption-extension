@@ -1,0 +1,20 @@
+{
+    "Author": "George Chrysovaladis Grammatikos",
+    "ContentSize": 8729,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-virtual-machine-and-secure-the-disk-using-azure-disk-encryption-extension/master/Auto-Deploy-VM-DiskEncryption.ps1",
+    "DownloadCount": 1805,
+    "Id": "Deploy-Virtual-Machine-And-6e9c2229",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 247,
+    "RaterCount": 9,
+    "Rating": 5.0,
+    "ReleaseDate": "2018-9-14T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "OverviewThis PowerShell script covers a complete case with one virtual machine (Windows Server 2016), with one data disk, Virtual Network, Subnet, Public IP Address, Network Security Group, BGInfo, and Disk Encryption Extensions.DetailsThe executing steps are :Step 1. Create a Re",
+    "Title": "Deploy Virtual Machine And Secure The Disk Using Azure Disk Encryption Extension",
+    "UpdatedDate": "2018-9-14T00:00:00",
+    "Url": "https://github.com/azureautomation/deploy-virtual-machine-and-secure-the-disk-using-azure-disk-encryption-extension",
+    "UserTags": "Microsoft Azure, BGinfo, Windows PowerShell"
+}
